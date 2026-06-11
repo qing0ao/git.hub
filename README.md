@@ -37,6 +37,9 @@
 ## 我的专业是人工智能
 游戏就是我理解世界的方式，而人工智能就像现实世界的游戏策略。我相信只要找到规则和破绽，就没有赢不了的挑战。
 
+<img src="w1.jpg" width="800">
+
+
 ## 我最喜欢的一段代码
 ```python
 # dev_skills_env.py 中的代码
@@ -48,4 +51,3 @@ def kuuhaku_win():
             win_rate = 100
             print(f"胜率：{win_rate}%")
 kuuhaku_win()
-<img src="w1.jpg" width="800">
